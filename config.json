@@ -1,4 +1,6 @@
 {
     "baseUrl": "https://marketplace.gohighlevel.com",
+    "clientId": "65b7cbcff94eb090012ef9a0-lrz4izwb",
+    "clientSecret": "8f6b491a-2059-41a0-93c3-f95293824c0b",
     "env": "http://localhost:3000/"
 }
